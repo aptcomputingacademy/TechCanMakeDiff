@@ -1,4 +1,5 @@
 <p>&nbsp;</p>
+<p>&nbsp;</p>
 <h1>TechCanMakeDiff: Ideas</h1>
 <h2>1) SmartDoorCamera:</h2>
 <h3>Problem Statement:</h3>
@@ -52,6 +53,47 @@
 <h3>References:</h3>
 <p><a href="https://www.analyticsindiamag.com/how-data-science-is-helping-address-the-npa-problem/">https://www.analyticsindiamag.com/how-data-science-is-helping-address-the-npa-problem/</a></p>
 <p>&nbsp;</p>
+<p>&nbsp;</p>
+<h2>5) Machine Learning Job Portal:</h2>
+<p>&nbsp;</p>
+<h3>Problem Statement:</h3>
+<p>Develop a job portal that gives a personalised search.</p>
+<h3>Applications:</h3>
+<ul>
+<li>A more concise assessment both to probable employee and the employer based on the skill set and experience.</li>
+</ul>
+<h3>Domains:</h3>
+<p>machine Learning, Web Development,&nbsp;</p>
+<h3>Solution:</h3>
+<p>&nbsp;</p>
+<p><em>Features :</em></p>
+<h3>References:</h3>
+<p>&nbsp;&lt;&gt;</p>
+<h3>Implementation:</h3>
+<p>&lt;&gt;</p>
+<h3>Program Repository:</h3>
+<p>&lt;&gt;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<h2>6) Analyse the resources and consumptions:</h2>
+<p>&nbsp;</p>
+<h3>Problem Statement:</h3>
+<p>Define a model to analyse the resources like water, green cover, for a locality to define permissions like population, schools, hospitals</p>
+<h3>Applications:</h3>
+<ul>
+<li></li>
+</ul>
+<h3>Domains:</h3>
+<p>machine Learning, Web Development,&nbsp;</p>
+<h3>Solution:</h3>
+<p>&nbsp;</p>
+<p><em>Features :</em></p>
+<h3>References:</h3>
+<p>&nbsp;&lt;&gt;</p>
+<h3>Implementation:</h3>
+<p>&lt;&gt;</p>
+<h3>Program Repository:</h3>
+<p>&lt;&gt;</p>
 <h2>5) &lt;Template&gt;:</h2>
 <p>&nbsp;</p>
 <h3>Problem Statement:</h3>
