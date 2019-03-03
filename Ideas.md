@@ -1,6 +1,4 @@
-<!DOCTYPE html>  
-<html lang="en">
-<body>
+<p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <h1>TechCanMakeDiff: Ideas</h1>
@@ -83,9 +81,6 @@
 <h3>Problem Statement:</h3>
 <p>Define a model to analyse the resources like water, green cover, for a locality to define permissions like population, schools, hospitals</p>
 <h3>Applications:</h3>
-<ul>
-<li></li>
-</ul>
 <h3>Domains:</h3>
 <p>machine Learning, Web Development,&nbsp;</p>
 <h3>Solution:</h3>
@@ -97,6 +92,70 @@
 <p>&lt;&gt;</p>
 <h3>Program Repository:</h3>
 <p>&lt;&gt;</p>
+<p>&nbsp;</p>
+<h2>7) <strong>Dynamic Menu Decider and Inventory</strong>:</h2>
+<p>&nbsp;</p>
+<h3>Problem Statement:</h3>
+<p class="p1">Develope an Application for small scale restaruants and food delivery. Problem Statement</p>
+<h3>Applications:</h3>
+<ul>
+<li class="li1">How to maximise the profit without any wastage of food. In food industry predicting the daily bussiness is a tough job. Consider a meal restaurant , the owner doesn't know how much meal he/she is going to sell today. So if on a particular day all meals are not sold either he/she has to throw it or store it for next day. Throwing food or half prepared raw material is a loss to his business. Servcing freezed food to customer has health impact. Can technology solve this problem? If yes how?</li>
+<li class="li1">How do i optimise the daily menu by maximising my profit and minimising storing of inventory? When we go to any eatery we find the menu card has 100s of items. Does really they sell every day. There will be some popular item some semi popular some zero popular. Still the restaurant owners has to store the raw material to most of its items mentioned in the menu. This may be ok for large restaurants what about small and new players in this filed. If i can predict by month , and day which all items are going to sell mostly then i can buy raw materials only for those items in the menu and use a menu just to display those items.</li>
+</ul>
+<h3>Domains:</h3>
+<p>&lt;Domains Covered&gt;</p>
+<h3>Solution:</h3>
+<p>&lt;Initial Thoughts&gt;.</p>
+<p><em>Features :</em></p>
+<ul>
+<li>&lt;Feature1&gt;</li>
+</ul>
+<h3>References:</h3>
+<p>&nbsp;&lt;Any references&gt;</p>
+<h3>Implementation:</h3>
+<p>&lt;&gt;</p>
+<h3>Program Repository:</h3>
+<p>&lt;&gt;</p>
+<p>&nbsp;</p>
+<h2>5)<strong>Smart Residential Campus</strong>:</h2>
+<p>&nbsp;</p>
+<h3>Problem Statement:</h3>
+<p class="p1">Develop an Cloud based solution for residential apartments that will include the below fatures.</p>
+<h3>Applications:</h3>
+<ul>
+<li>
+<p class="p1"><strong>Smart Home Feature</strong></p>
+<ul class="ul1">
+<li class="li1">Sensor Based Lights. ( We will use both occupancy sensor and light intensity sensor with demable feature). All the lights can even be controlled by andriod application and voice command.</li>
+<li class="li1">Control various home appliances using app any time any where.</li>
+<li class="li1">Video door bell with face face recognition. It will announce who is waiting outside.</li>
+<li class="li1">CCTV monitoring system for kids.</li>
+<li class="li1">Smart electricity usage analysis and statistics to reduce electric bill.</li>
+</ul>
+<p class="p2">&nbsp;</p>
+<p class="p1"><strong>Smart Campus</strong></p>
+<ul class="ul1">
+<li class="li1">All outdoor lights will be automated using occupancy and light sensors.</li>
+<li class="li1">Smart electricity usage analysis.</li>
+</ul>
+</li>
+</ul>
+<h3>Domains:</h3>
+<p>&lt;Domains Covered&gt;</p>
+<h3>Solution:</h3>
+<p>&lt;Initial Thoughts&gt;.</p>
+<p><em>Features :</em></p>
+<ul>
+<li>&lt;Feature1&gt;</li>
+</ul>
+<h3>References:</h3>
+<p>&nbsp;&lt;Any references&gt;</p>
+<h3>Implementation:</h3>
+<p>&lt;&gt;</p>
+<h3>Program Repository:</h3>
+<p>&lt;&gt;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 <h2>5) &lt;Template&gt;:</h2>
 <p>&nbsp;</p>
 <h3>Problem Statement:</h3>
@@ -122,5 +181,3 @@
 <p>&lt;&gt;</p>
 <p>&nbsp;</p>
 <h2>&nbsp;</h2>
-</body>
-</html>
