@@ -1,7 +1,0 @@
-# Dynamic Menu Decider and Inventory
-Develope an Application for small scale restaruants and food delivery.
-Problem Statement-
-- How to maximize the profit without any waistage of food.
-    In food industry predicting the daily bussiness is a tough job. Consider a meal resturant , the owner doesn't know how much meal he/she is going to sell today. So if on a particular day all meals are not sold either he/she has to throw it or store it for next day. Thorwing food or half prepared raw material is a loss to his business. Servcing freezed food to customer has health impact. Can technology solve this problem? If yes how?
-- How do i optimize the daily menu by maximizing my profit and minimizing storing of inventory?
-  When we go to any eatery we find the menu card has 100s of items. Does really they sell every day. There will be some popular item some semi popular some zero popular. Still the restaruant owners has to store the raw material to most of its items mentioned in the menu. This may be ok for large restruants what about small and new players in this filed. If i can predict by month , and day which all items are going to sell mostly then i can buy raw materials only for those items in the menu and use a emenu just to display those items.
